@@ -1,4 +1,4 @@
-## Hi there 👋
+## 👋 Hi there!
 <!-- 
 - 🔭 I’m a pre-final year student, currently pursuing my B.Tech at IIIT Bhopal
 - 🌱 I’m a Frontend Devloper
@@ -20,17 +20,16 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 <h1 align="center">This is Aniket Kumar Arya</h1>
 <h3 align="center">Indian Institue of Information Technology, Bhopal</h3>
 <h3 align="center"> Information Technology </h3>
-
+-->
 <p align="center">
    <img src="https://komarev.com/ghpvc/?username=itsakarya&color=blueviolet&style=flat">
 </p>
 
 
-👋 Hi there! I'm Aniket Kumar Arya, a 2023 IT graduate from IIIT Bhopal, passionate about crafting seamless user experiences. Currently, I'm working as an SDE-1 at PocketFm, specializing in front-end technologies like React.js, JavaScript, TypeScript, Next.js, Next-Auth, ZOD, HTML, CSS, Tailwinds CSS, shadCn and Zustand.
+I'm Aniket Kumar Arya, a 2023 IT graduate from IIIT Bhopal, passionate about crafting seamless user experiences. Currently, I'm working as an SDE-1 at PocketFm, specializing in front-end technologies like React.js, JavaScript, TypeScript, Next.js, Next-Auth, ZOD, HTML, CSS, Tailwinds CSS, shadCn and Zustand.
 
 🚀 Before my role at PocketFm, I embarked on a dynamic journey as an ASE intern at Tekion for 6 months, gaining valuable insights into the industry. Additionally, I spent 2 months as a Frontend Developer intern at PocketFm, contributing to innovative projects.
 
