@@ -30,8 +30,11 @@ Here are some ideas to get you started:
 </p>
 
 
+👋 Hi there! I'm Aniket Kumar Arya, a 2023 IT graduate from IIIT Bhopal, passionate about crafting seamless user experiences. Currently, I'm working as an SDE-1 at PocketFm, specializing in front-end technologies like React.js, JavaScript, TypeScript, Next.js, Next-Auth, ZOD, HTML, CSS, Tailwinds CSS, shadCn and Zustand.
 
-- 🔭 I’m currently working on Cloud Computing and Web Application Development.
+🚀 Before my role at PocketFm, I embarked on a dynamic journey as an ASE intern at Tekion for 6 months, gaining valuable insights into the industry. Additionally, I spent 2 months as a Frontend Developer intern at PocketFm, contributing to innovative projects.
+
+💼 Beyond coding, I have a keen interest in finance, adding a strategic layer to my technical skills. In my free time, you'll find me socializing and engaging in volunteer work, as I believe in the power of community impact.
 
 
 ### 🛠 &nbsp;Languages and Tools
@@ -45,13 +48,18 @@ Here are some ideas to get you started:
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)-->
+![NextJs](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=for-the-badge&logo=Node.js&logoColor=ffffff) -->
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![ShadCn](https://img.shields.io/badge/shadcn%2Fui-000?logo=shadcnui&logoColor=fff&style=for-the-badge)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-grey?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white)
 
+<!--
 #### Clouds
 
-![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white) -->
 
 #### DevOps Tools
 
